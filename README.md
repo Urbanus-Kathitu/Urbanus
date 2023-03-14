@@ -1,5 +1,4 @@
-# Urbanus
-Welcome to my GitHub Repository
+# Welcome to my GitHub Repository
 
 This repository contains my work as a data scientist, including data analysis, machine learning projects, and data visualization.
 
