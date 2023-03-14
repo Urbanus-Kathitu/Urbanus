@@ -32,6 +32,7 @@ Contact
 If you have any questions or comments about the projects in this repository, please feel free to contact me at:
 
 peterkathitu@gmail.com
+
 🌐 Socials :
 
 https://www.linkedin.com/in/urbanus-kathitu-19792a96/
